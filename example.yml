@@ -1,0 +1,19 @@
+dictionary:
+  nested_dictionary:
+    nested_array:
+    - text: some text
+    - number: 123
+    - nested_dictionary:
+        nested_dictionary:
+          text: some text
+          number: 123
+          nested_dictionary:
+            text: some text
+            number: 123
+    nested_dictionary:
+      text: some text
+      number: 123
+      nested_dictionary:
+        text: some text
+    text: some text
+    number: 123
